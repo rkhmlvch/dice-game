@@ -29,10 +29,3 @@ The Dice Game is a web-based application that allows two players to roll dice an
 
 ## License
 This project is unlicensed.
-
-## Author
-[Sergey Rakhmalevich](https://github.com/rkhmlvch)
-
----
-
-Enjoy playing the Dice Game and challenge your friends to see who gets lucky!
