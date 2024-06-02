@@ -23,7 +23,7 @@ The Dice Game is a web-based application that allows two players to roll dice an
 - JavaScript
 
 ## Usage
-1. Open the `index.html` file in your preferred web browser.
+1. Open the https://rkhmlvch.github.io/dice-game/ file in your preferred web browser.
 2. Click the "Roll Dice" button to roll the dice.
 3. The dice will roll, and the result will be displayed along with the winner.
 
